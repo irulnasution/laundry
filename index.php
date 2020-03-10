@@ -11,7 +11,7 @@
 </head>
 <body background="#f0f0f0">
     <header>
-        <h2 style="text-align: center; margin-top: 30px">Sistem Informasi Laundry Terbaru</h2>
+        <h2 style="text-align: center; margin-top: 30px"> Laundry</h2>
     </header>
     <div class="container">
         <div class="col-md-4 col-md-offset-4">
